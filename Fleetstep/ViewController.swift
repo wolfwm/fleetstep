@@ -40,7 +40,7 @@ class ViewController: UIViewController {
                                     let yAcc = usrAcc.y
                                     let zAcc = usrAcc.z
                                     
-                                    let threshold:Double = 0.050
+                                    let threshold:Double = 0.040
 //                                    let dflt:Double = 0.000
                                     
 //                                    self.textLabel.text = String(format: "%.3f", abs(xAcc) >= threshold ? xAcc : dflt) + " " + String(format: "%.3f", abs(yAcc) >= threshold ? yAcc : dflt) + " " + String(format: "%.3f", abs(zAcc) >= threshold ? zAcc : dflt)
